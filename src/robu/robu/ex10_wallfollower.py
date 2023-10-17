@@ -1,6 +1,10 @@
-def main():
-    print('Hi from robu bhme.')
+import math
 
 
-if __name__ == '__main__':
+
+def main(args=None):
+    print("wallfollower")
+
+if __name__=="__main__":
     main()
+
